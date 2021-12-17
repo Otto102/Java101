@@ -5,7 +5,7 @@ package Odevler;
 import java.util.Scanner;
 
 /**
- * @author Osman Kurun - 16.12.2021
+ * @author Osman Kurun - 17.12.2021
  */
 
 public class odev10 {
