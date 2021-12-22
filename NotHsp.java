@@ -3,6 +3,8 @@ package Giris;
  * @Author Osman Kurun - 15.12.2021
  */
 
+//Not ORtalaması Hesaplama
+
 import java.util.Scanner;
 
 public class Odev1 {
