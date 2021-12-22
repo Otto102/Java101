@@ -1,6 +1,8 @@
 package Odev;
 import java.util.Scanner;
 
+// KDV Hesaplama
+
 /**
  * @Author Osman Kurun - 15.12.2021
  */
