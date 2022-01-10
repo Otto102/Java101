@@ -71,7 +71,7 @@ public class AtmProg {
                         if (yanlisParola == 0){
                             System.out.println("Hesabınız bloke olmuştur. Lütfen bankanız ile iletişime geçiniz.");
                         }else {
-                            System.out.println("Yanlış parola girdiniz. Kalan hakkınız:" + yanlisParola);
+                            System.out.println("Yanlış parola girdiniz. Kalan hakkınız:" + (yanlisParola - 1));
                             yanlisParola--;
                         }
                     }
